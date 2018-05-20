@@ -1,7 +1,9 @@
 # SimpleFacebookScraper
 
 Author: Anthony Russell
+
 Contact: https://twitter.com/DotNetRussell
+
 Created: 20-May-2018
 
 For educational purposes only.... 
