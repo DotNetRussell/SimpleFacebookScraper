@@ -15,3 +15,6 @@ Simply change target to:
 - Location
 
 Then run the application. This could easily be expanded on to scrape friends of targets, interests, photos and more. I plan on continuing to build this out in the coming weeks.
+
+Example Video: 
+https://youtu.be/mP0NFFJJ7wY
